@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="firebase_database_url" translatable="false">https://tetristest-d27a7.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">383506333763</string>
+  <string name="google_storage_bucket" translatable="false">tetristest-d27a7.appspot.com</string>
+  <string name="project_id" translatable="false">tetristest-d27a7</string>
+  <string name="google_api_key" translatable="false">AIzaSyCZA2z8cQgx4W4I05M7Rpgj9IXkVFFDr-A</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCZA2z8cQgx4W4I05M7Rpgj9IXkVFFDr-A</string>
+  <string name="google_app_id" translatable="false">1:383506333763:android:94450a9c5927adad</string>
+  <string name="default_web_client_id" translatable="false">383506333763-o0318i91gbf5ehappoapbf15iprnv3ea.apps.googleusercontent.com</string>
+</resources>

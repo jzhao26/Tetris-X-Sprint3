@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "383506333763",
+    "firebase_url": "https://tetristest-d27a7.firebaseio.com",
+    "project_id": "tetristest-d27a7",
+    "storage_bucket": "tetristest-d27a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383506333763:android:94450a9c5927adad",
+        "android_client_info": {
+          "package_name": "com.jiamonzhao.tetrisx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383506333763-o0318i91gbf5ehappoapbf15iprnv3ea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZA2z8cQgx4W4I05M7Rpgj9IXkVFFDr-A"
+        },
+        {
+          "current_key": "AIzaSyAZ0qDw7koKch7wSDKbOD25KAYWwSRBPnc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383506333763:android:3aa85527a2ce101a",
+        "android_client_info": {
+          "package_name": "com.jiamonzhao.tetrisxx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383506333763-o0318i91gbf5ehappoapbf15iprnv3ea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZA2z8cQgx4W4I05M7Rpgj9IXkVFFDr-A"
+        },
+        {
+          "current_key": "AIzaSyAZ0qDw7koKch7wSDKbOD25KAYWwSRBPnc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

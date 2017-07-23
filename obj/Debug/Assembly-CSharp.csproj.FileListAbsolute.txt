@@ -1,0 +1,76 @@
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\Temp\bin\Debug\Firebase.App.dll
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\Temp\bin\Debug\Firebase.Auth.dll
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\Temp\bin\Debug\Google.MiniJson.dll
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\Temp\bin\Debug\Unity.Compat.dll
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\Temp\bin\Debug\Unity.Tasks.dll
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\obj\Debug\Assembly-CSharp.dll
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\Temp\bin\Debug\Firebase.Database.dll
+C:\Users\Doge\Desktop\cs115\xxxxxxxx\Tetris_X_2\Tetris X\Temp\bin\Debug\Google.Sharpen.dll
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\Temp\bin\Debug\Firebase.App.dll
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\Temp\bin\Debug\Firebase.Auth.dll
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\Temp\bin\Debug\Firebase.Database.dll
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\Temp\bin\Debug\Google.MiniJson.dll
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\Temp\bin\Debug\Google.Sharpen.dll
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\Temp\bin\Debug\Unity.Compat.dll
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\Temp\bin\Debug\Unity.Tasks.dll
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\obj\Debug\Assembly-CSharp.dll
+C:\Users\Doge\Desktop\cs115\New folder (2)\Tetris X\obj\Debug\Assembly-CSharp.pdb
