@@ -27,8 +27,8 @@ public class login : MonoBehaviour {
     //Scores can be viewed by developer in the Firebase database website
     //Unable to show the ranked score due to format convert issues
 
-    protected Firebase.Auth.FirebaseAuth auth;//authantication 
-	private DatabaseReference rankdata;//database
+    public Firebase.Auth.FirebaseAuth auth;//authantication 
+	public DatabaseReference rankdata;//database
 
 	public InputField logname;
 	public InputField logpass;
