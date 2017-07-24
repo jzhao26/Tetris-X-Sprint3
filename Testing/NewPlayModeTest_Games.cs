@@ -1,4 +1,6 @@
-﻿using UnityEngine;
+//Name: Weiyi Xia
+//unit test for the project
+using UnityEngine;
 using UnityEngine.UI;
 using UnityEditor;
 using UnityEngine.TestTools;
